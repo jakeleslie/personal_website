@@ -13,7 +13,6 @@ const nextConfig = {
     })
     return config
 },
-output: { path: path.resolve(__dirname, 'static'), },
 }
 
 module.exports = nextConfig 
