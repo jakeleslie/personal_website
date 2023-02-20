@@ -11,7 +11,7 @@ export default function Home() {
     <main>
       <div>
         <Navbar />
-        <h1>Jake's Website</h1>
+        <h1>Welcome to my website! </h1>
         <Image src={pudding} />
       </div>
     </main>
